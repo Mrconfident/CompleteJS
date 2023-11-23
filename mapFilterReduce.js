@@ -32,3 +32,4 @@ const max = arr.reduce((acc, curr) => {
 }, 0)
 
 console.log(max)
+

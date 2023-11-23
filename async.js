@@ -84,3 +84,5 @@ async function apicall () {
 }
 
 apicall()
+
+console.log(typeof apicall())
